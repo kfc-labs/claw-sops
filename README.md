@@ -1,9 +1,9 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
-<!-- Copyright 2026 Tomasz Kornuta -->
+<!-- Copyright 2026 KFC Labs -->
 
-# Klaudiusz Secrets Operations (SOPS)
+# claw-secrets 🔐
 
-Encryption/decryption skills and utilities for managing secrets using Mozilla SOPS + AGE.
+Encryption/decryption skills and utilities for OpenClaw agents using Mozilla SOPS + AGE.
 
 ## Contents
 
